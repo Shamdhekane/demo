@@ -1,2 +1,2 @@
 # demo
-this id demo for git &amp; github
+this id demo for git &amp; github.
